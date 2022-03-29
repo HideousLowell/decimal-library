@@ -1,7 +1,7 @@
-# decimal
-Implementation of the decimal type (just like in c#)
+# Decimal
+## Implementation of the decimal type (just like in c#)
 
-The value_type field contains information about the type of number, with the s21_NORMAL_VALUE value, the bits array contains a number, with other values, all elements of the bits array are 0  
+### The value_type field contains information about the type of number, with the s21_NORMAL_VALUE value, the bits array contains a number, with other values, all elements of the bits array are 0  
 
 ### Arithmetic Operators
 
